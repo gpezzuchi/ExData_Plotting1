@@ -1,3 +1,9 @@
+## Submission
+
+I have uploaded the 4 .png files and the 4 .R files
+*For Plot3 and 4 I have also included a second variant that plots directly to the png file (the first variant plots to the screen and copies the result to the PNG file).*
+I have kept the original README below.
+
 ## Introduction
 
 This assignment uses data from
